@@ -43,7 +43,7 @@ function App() {
         <div>
           <input
             type="text"
-            className='text-black bg-transparent border  border-black rounded-lg p-2 m-2'
+            className='text-white bg-black border  border-black rounded-lg p-2 m-2'
             value={password}
             readOnly
             ref={passwordref}
